@@ -1,0 +1,54 @@
+.container {
+    /* margin-top: 10%; */
+    margin: 10% 40% 40% 30%;
+    /* margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto; */
+    justify-content: center;
+    width: 50%;
+  }
+  #date {
+    margin: auto;
+    width: 180px;
+  }
+  
+  .form-floating {
+    width: 70%;
+  }
+  
+  .border-primary {
+    width: 60%;
+    border-radius: 20px;
+  }
+  
+  .card-body {
+    width: 20%;
+  }
+  .dropup {
+    position: fixed;
+    padding: 10px;
+    bottom: 40px;
+    left: 45%;
+  
+    color: black;
+    border-radius: 50px;
+    text-align: center;
+    /* box-shadow: 2px 2px 3px #999; */
+  }
+  
+  .fa {
+    font-size: 25px;
+  }
+  
+  a i {
+    transition: all 0.3s linear;
+  }
+  
+  a:hover i {
+    transition: all 0.3s linear;
+    transform: scale(1.5);
+  }
+  .card {
+    
+  }
+  
